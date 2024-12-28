@@ -81,7 +81,7 @@
 
 ## 🛠️ 기술 스택  
 - **Frontend**: TypeScript.js
-- **Backend**: Node.js, Express.js
+- **Backend**: SpringBoot
 - **Database**: MongoDB
 - **Authentication**: JWT + 학교 웹메일 인증
 
