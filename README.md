@@ -1,5 +1,7 @@
 ## 🙌 안녕하세요. CodIN팀 입니다.
-  
+|<img src="https://avatars.githubusercontent.com/u/67214970?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/76506573?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/32871806?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/122799096?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/162969032?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/121088189?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Kwak Byoung Min<br/>[@doma17](https://github.com/doma17)|[@gisu1102](https://github.com/gisu1102)|최수환<br/>[@SooHwanIT](https://github.com/SooHwanIT)|[@yy0un9](https://github.com/yy0un9)|Yereong<br/>[@yereong](https://github.com/yereong)|민국<br/>[@X1n9fU](https://github.com/X1n9fU)|
 
 ## ❓ CodIN이란?   
 - **CodIN**은 **<u>인천대학교 정보기술대학 구성원 커뮤니티</u>** 입니다.   
