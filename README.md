@@ -1,7 +1,19 @@
 ## 🙌 안녕하세요. CodIN팀 입니다.
+![header](https://readme-decorate.vercel.app/api/get?type=fadein&text=++Code+INU%2C+Code+in%28%EC%BD%94%EB%93%9C+%EC%95%88%EC%9D%98%29%2C+Code+%E4%BA%BA+%28%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94+%EC%82%AC%EB%9E%8C%EB%93%A4%29&width=900&height=98&fontSize=32&fontWeight=800&useGradient=false&fontColor=%230091ff&backgroundColor=%23ffffff&gradientColor1=&gradientColor2=)
 |<img src="https://avatars.githubusercontent.com/u/67214970?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/76506573?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/32871806?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/122799096?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/162969032?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/121088189?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Kwak Byoung Min<br/>[@doma17](https://github.com/doma17)|[@gisu1102](https://github.com/gisu1102)|최수환<br/>[@SooHwanIT](https://github.com/SooHwanIT)|[@yy0un9](https://github.com/yy0un9)|Yereong<br/>[@yereong](https://github.com/yereong)|민국<br/>[@X1n9fU](https://github.com/X1n9fU)|
+
+
+
+### 📌 프로젝트의 주된 목표
+
+1. 학생들 간의 네트워킹 강화
+2. 학과 및 대학 정보의 효율적인 전달
+3. 프로젝트 협업 및 스터디 그룹 형성 촉진
+4. 취업 정보 및 비교과( 공모전, 대회 ) 기회 공유
+
+<br>
 
 ## ❓ CodIN이란?   
 - **CodIN**은 **<u>인천대학교 정보기술대학 구성원 커뮤니티</u>** 입니다.   
